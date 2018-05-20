@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 282b0fb94078e9d4994d588de97a3fae
+timeCreated: 1493641309
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BLACK NAPKINS Personal Use
+  fontNames:
+  - BLACK NAPKINS Personal Use
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

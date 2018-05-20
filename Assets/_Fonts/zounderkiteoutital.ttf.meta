@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a8222474078e1e049bb45485cc4368e7
+timeCreated: 1493641654
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zounderkite Outline Italic
+  fontNames:
+  - Zounderkite Outline Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

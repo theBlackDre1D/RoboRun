@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 900c3e1d51f3e9e41bb52dbe3c289c9b
+timeCreated: 1493641654
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zounderkite 3D
+  fontNames:
+  - Zounderkite 3D
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

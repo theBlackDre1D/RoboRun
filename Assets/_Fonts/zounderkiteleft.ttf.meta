@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dc9f11c2e2047974ba190fd638dc9744
+timeCreated: 1493641654
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zounderkite Leftalic
+  fontNames:
+  - Zounderkite Leftalic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

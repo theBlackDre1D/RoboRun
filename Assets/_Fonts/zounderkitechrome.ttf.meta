@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 544ef48a28644ca4593c14872c5118e3
+timeCreated: 1493641654
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zounderkite Chrome
+  fontNames:
+  - Zounderkite Chrome
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

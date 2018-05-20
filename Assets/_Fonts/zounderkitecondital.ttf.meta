@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 78730e4c4d77f43419e37966dfcc6565
+timeCreated: 1493641654
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zounderkite Condensed Italic
+  fontNames:
+  - Zounderkite Condensed Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

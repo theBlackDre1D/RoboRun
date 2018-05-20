@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ccd7e2a51f3e22f49855588840b8d347
+timeCreated: 1492156793
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tradizional DEMO
+  fontNames:
+  - Tradizional DEMO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

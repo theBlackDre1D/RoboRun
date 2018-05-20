@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4ae7ce80bab84de4c91a90a4e0f0c80d
+timeCreated: 1492156793
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Winter Calligraphy
+  fontNames:
+  - Winter Calligraphy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
